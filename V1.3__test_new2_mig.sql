@@ -1,0 +1,1 @@
+CREATE TABLE saleseast (id INTEGER PRIMARY KEY, name VARCHAR);

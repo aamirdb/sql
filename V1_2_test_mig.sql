@@ -1,0 +1,1 @@
+CREATE TABLE newsale (id INTEGER PRIMARY KEY, name VARCHAR);
