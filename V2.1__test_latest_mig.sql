@@ -1,1 +1,1 @@
-CREATE TABLE southsales (id INTEGER PRIMARY KEY, name VARCHAR);
+CREATE TABLE southsalesss (id INTEGER PRIMARY KEY, name VARCHAR);
