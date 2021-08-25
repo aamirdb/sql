@@ -1,1 +1,0 @@
-CREATE TABLE saleswest (id INTEGER PRIMARY KEY, name VARCHAR);
